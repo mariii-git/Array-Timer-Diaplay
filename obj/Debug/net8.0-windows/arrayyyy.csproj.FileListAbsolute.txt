@@ -1,0 +1,16 @@
+J:\New folder\arrayyyy\arrayyyy\bin\Debug\net8.0-windows\arrayyyy.exe
+J:\New folder\arrayyyy\arrayyyy\bin\Debug\net8.0-windows\arrayyyy.deps.json
+J:\New folder\arrayyyy\arrayyyy\bin\Debug\net8.0-windows\arrayyyy.runtimeconfig.json
+J:\New folder\arrayyyy\arrayyyy\bin\Debug\net8.0-windows\arrayyyy.dll
+J:\New folder\arrayyyy\arrayyyy\bin\Debug\net8.0-windows\arrayyyy.pdb
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.Form1.resources
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.csproj.GenerateResource.cache
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.GeneratedMSBuildEditorConfig.editorconfig
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.AssemblyInfoInputs.cache
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.AssemblyInfo.cs
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.csproj.CoreCompileInputs.cache
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.dll
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\refint\arrayyyy.dll
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.pdb
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\arrayyyy.genruntimeconfig.cache
+J:\New folder\arrayyyy\arrayyyy\obj\Debug\net8.0-windows\ref\arrayyyy.dll
